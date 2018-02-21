@@ -31,7 +31,7 @@ CREATE TABLE `tb_user` (
 
 /*Data for the table `tb_user` */
 
-insert  into `tb_user`(`pk_user`,`username`,`password`,`nama_lengkap`,`email`) values (4,'adaskfn','21232f297a57a5a743894a0e4a801fc3','nvklsdnv','nslkdnv@sdf.sdf'),(6,'asdasd',NULL,'nflsndf','lnvflsw@fsdf.sdf'),(10,'admin','21232f297a57a5a743894a0e4a801fc3','admin','admin@admin.admin'),(11,'asdas','196b0f14eba66e10fba74dbf9e99c22f','asdas','asda@sdfsf.sdfdsf'),(12,'admin','21232f297a57a5a743894a0e4a801fc3','admin','admin@admin.admin');
+insert  into `tb_user`(`pk_user`,`username`,`password`,`nama_lengkap`,`email`) values (10,'admin','21232f297a57a5a743894a0e4a801fc3','admin','admin@admin.admin'),(12,'admin','21232f297a57a5a743894a0e4a801fc3','admin','admin@admin.admin');
 
 /*!40101 SET SQL_MODE=@OLD_SQL_MODE */;
 /*!40014 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS */;
