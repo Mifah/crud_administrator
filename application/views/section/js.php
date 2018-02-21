@@ -174,6 +174,7 @@
 	 					dataType	: 'json',
 	 					success		: function (data) {
 	 						// console.log(data);
+							location.href = '{url}login';	
 	 						btn_signup.text('Register');
 	 					}
 	 				});
